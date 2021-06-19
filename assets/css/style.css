@@ -1080,3 +1080,34 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+
+/* ----------- */
+.mh-home-2 .mh-header-info .mh-about-tag {
+  width: 60%;
+  margin: 0 auto; }
+  .mh-home-2 .mh-header-info .mh-about-tag ul li {
+    margin: 6px; }
+    .mh-about-tag {
+      word-break: break-all;
+      margin-bottom: 10px;
+      margin-top: 10px; }
+      .mh-about-tag ul li {
+        margin: 0px 6px;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        padding: 4px 0px;
+        display: inline-block; }
+        .mh-about-tag ul li span {
+          border: 1px solid #0bceaf;
+          padding: 4px 10px;
+          border-radius: 4px; }
+          .mh-about-tag ul li span:hover {
+            background-color: transparent !important; }
+
+            .maddo{
+              width:1000px;
+              position:relative;
+              left:-80px;
+            }
